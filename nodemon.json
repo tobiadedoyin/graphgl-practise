@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_USER": "qraph",
+    "MONGO_PASSWORD": "oladele"
+  }
+}
